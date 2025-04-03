@@ -4,7 +4,7 @@ This project analyzes Walmart's sales data using SQL to extract valuable insight
 # Generic Question
 1. How many unique cities does the data have?
 2. In which city is each branch?
-#Product
+# Product
 1. How many unique product lines does the data have?
 2. What is the most common payment method?
 3. What is the most selling product line?
